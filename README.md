@@ -9,7 +9,7 @@ Simply just type in the information asked by terminal ie. suburb, city or addres
 
 How it works: 
 1.Takes a typed location and geocodes it into latitude/longitude
-2.Searches the Places API for nearby cafes within a 1.5km radius
+2.Searches the Places API for nearby cafes within a 2.5km radius
 3.Sorts and displays the results in the terminal
 4.Possible improvements
 5.Add a Flask/Streamlit web interface
